@@ -2,5 +2,9 @@
     {
        "zone":"Tejgaon",
        "location":"tejgaon,west nakhalpara,east nakhalpara,niketon,mohakhali" 
-    }
+    },
+    {
+        "zone":"Ramna",
+        "location":"Mogbazar,malibag" 
+     }
 ]
