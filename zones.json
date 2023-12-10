@@ -1,10 +1,14 @@
 [
     {
        "zone":"Tejgaon",
-       "location":"tejgaon,west nakhalpara,east nakhalpara,niketon,mohakhali" 
+       "location":"tejgaon,west nakhalpara,east nakhalpara,west tejturibazar,east tejturibazar,karwan bazar,tejkunipara,monipuripara,southpara,dokkhinpara,setu bhaban,shahinbag,mohakhali dohs,niketon,mohakhali" 
     },
     {
         "zone":"Ramna",
         "location":"Mogbazar,malibag" 
-     }
+     },
+     {
+      "zone":"Gulistan",
+      "location":"Hall market,gpo,trade center,baitul mokarram masjid,bongo market,bongo bondhu avenue,pir yameni market,kaptan bazar,sundarban square super market,barishal hotel,dhaka tower,nababpur road,suritola school,alu bazar,siddik bazar, kazi aluddin road,patal market,shopping complex, police headquarter, nagar bhaban, golap shah majar, nazira bazar,najira bazar" 
+   }
 ]
